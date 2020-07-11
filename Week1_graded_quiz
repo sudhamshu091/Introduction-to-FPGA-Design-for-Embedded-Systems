@@ -1,0 +1,116 @@
+1.Question 1
+What was missing in CPLDs that created a need for devices like FPGAs ?
+Ans:All the above(Designs that required many flip-flops
+                  Designs that contained large amounts of sequential circuits)
+2.Question 2
+Which of the following characterize CPLDs ? (Select all that apply)
+Ans:Predictable 
+    Easy to design with
+    Deterministic
+3.Question 3
+Evaluate a, b, c, d & e in the table given below for the following:
+===================>For the image refer "Week1_graded_quiz_images.pdf" <========================================================
+
+F = (~A & ~B ) | (C & D)
+
+a = __
+
+b = __
+
+c = __
+
+d = __
+
+e = __
+
+Enter your numerical answers separated by a comma
+
+(example: x,x,x,x,x or 1,1,1,1,1 )
+Ans:1,1,0,0,1
+4.Question 4
+Which of the following characteristics best match an ASIC and which of the following match an ASSP device?
+Ans:ASIC : is a semiconductor device integrated circuit (IC) product that is dedicated to a specific company
+    ASSP : Is a semiconductor device integrated circuit (IC) product that is dedicated to a specific application market and sold to more than one user
+5.Question 5
+Which of the following set of characteristics best matches LUTs .
+6.Question 6
+Which of the following is the best definition for a CPLD ?
+Ans:A device with multiple PALs in same package with registered outputs and interconnecting programmable fabric
+7.Question 7
+Which of the following characteristics are associated with Flash FPGAs ?
+( Select all that apply )
+Ans:High Reliability
+    Reprogrammable
+    Expensive
+    One time programmable
+8.Question 8
+How many 4-input LUTs with single outputs will be required to implement a 2-bit full adder with carry?
+Ans:4
+9.Question 9
+True or False: The usage of LUTS for implementation of adders with respect to gates decreases delay and increases performance.
+Ans:True
+10.Question 10
+Which of the characteristics match the implementation of a multiplier in an FPGA using Combinational Circuits versus Sequential Shift algorithms ? (Mark all that apply)
+Ans:Combinational circuits: Fast , Big
+    Sequential Shift: Small , Slow , State Machine
+11.Question 11
+Which of the characteristics match the implementation of a multiplier in an FPGA using Speciality Circuits, such as the Booth Algorithm ? ( Mark all that apply )
+Ans:Fast
+    Small
+    Complex
+    State Machine
+12.Question 12
+Which one of the following is not a programmable logic device?
+Ans:ROM
+13.Question 13
+True or False: ASICs are chosen for lower speed, lower complexity and lower cost in volume applications over FPGAs.
+Ans:False
+14.Question 14
+What are the principal advantages of FLASH based FPGAs over SRAM based FPGAs ? (Mark all that apply)
+Ans:Lower Power
+    Higher reliability
+    Better Security
+15.Question 15
+Which of the following is the best implementation for a 2-bit full adder. Hint: make sure to pay attention to signal names as well as circuit diagram.
+Ans:===================>For the image/answer refer "Week1_graded_quiz_images.pdf" <========================================================
+16.Question 16
+Choose the correct implementation of logic equation
+((A) AND NOT(B)) OR (C AND NOT(D))
+using PLA options:
+Ans:===================>For the image/answer refer "Week1_graded_quiz_images.pdf" <========================================================
+17.Question 17
+Choose the correct implementation of logic equation
+((A) AND (C)) OR (NOT(B) AND NOT(D))
+using PLA options:
+Ans:===================>For the image/answer refer "Week1_graded_quiz_images.pdf" <========================================================
+
+
+====================================================================||=====================================================================
+4.Question 4
+Which of the following characteristics best match a CPLD and which best match an FPGA?
+Ans:
+7.Question 7
+Select 3 characteristics that are associated with Antifuse FPGAs ?
+( Select all that apply )
+Ans:High reliability
+    Expensive
+    One time programmable(OTP)
+12.Question 12
+Adding FPGA fabric on an SOC makes it a __________ .
+7.Question 7
+Which of the following characteristics are associated with SRAM FPGAs ?
+(Select all that apply )
+Ans:Reprogrammable
+
+
+
+
+
+
+
+
+
+
+
+
+
