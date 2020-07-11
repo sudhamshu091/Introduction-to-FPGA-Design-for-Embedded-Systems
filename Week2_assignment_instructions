@@ -1,0 +1,19 @@
+Week 2 Assignment Instructions and Files
+There will be an application assignment in the next module. Please pay careful attention to these instructions, because the assignment requires you to do and record tasks as the module progresses. Following the steps in preparation for the assignment is open to all students in this course, while only paying learners will be able to access the final assignment in Week 2. Likewise, only paying learners will be able to access the instructions for and final assignment in Week 4.
+You will install a number of FPGA development tools, and then create your own FPGA design using steps given in the videos. At each milestone you will record screenshots of your progress, so that we can verify that you have done the design work and help you by identifying mistakes at any particular point in the design process. You will create screenshots of the FGPA tool window by typing ALT- PrtSc and saving the result as a .jpg file or pasting this into a .pdf document.
+In particular, you will be asked to submit these screenshots at the following points in the module:
+The completed pipemult schematic after Video #6
+The Compilation Report after Video #7 showing Fmax and % utilization
+A high level RTL view after Video #8
+The Compilation Report at the end of Video #10 showing Fmax and % utilization
+The ModelSim Simulation waveform window at the end of Video #11
+Save these instructions so that you can refer to them throughout the module.
+As you create your FPGA design following instructions in the videos, after each video you will reach a milestone. At this point, your results may look slightly different from the results we get. As you go forward to the next step, these differences may be confusing as the instructions may not match what you see. To keep everyone in sync, zipped up project files are made available so that you can start after each milestone with a known good solution. These project files are available on a Google drive, linked here:
+https://drive.google.com/drive/folders/0B91KTKl8ne_8YUFlbjQ5bFVRTlU?usp=sharing
+The associated project file needed to be unzipped prior to each video is listed here:
+Zip file to unzip to C:/AlteraPrj          	Prior to this video
+pipemultQP16_1Design.zip	                  Video #7
+pipemultQP16_1Compile.zip	                  Video #8
+None Needed	                                Video #9
+pipemultQP16_1Analyze.zip	                  Video #10
+pipemultQP16_1Timing2.zip	                  Video #11
