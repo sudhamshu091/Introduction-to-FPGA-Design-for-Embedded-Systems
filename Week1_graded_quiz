@@ -1,4 +1,4 @@
-1.Question 1
+1. Question 1
 What was missing in CPLDs that created a need for devices like FPGAs?
 Ans:All the above(Designs that required many flip-flops
                   Designs that contained large amounts of sequential circuits)
