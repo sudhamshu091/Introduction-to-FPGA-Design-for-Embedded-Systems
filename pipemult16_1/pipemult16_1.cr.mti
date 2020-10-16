@@ -1,0 +1,80 @@
+C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult16_1.cr.mti {0 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult16_1.cr.mti
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult16_1.cr.mti(1): near "C": syntax error
+
+} {4.0 5.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.bdf {0 {vlog -work work -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.bdf
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Error: (vlog-13069) C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.bdf(22): near "(": syntax error, unexpected '(', expecting class.
+
+
+} {3.0 4.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd.bak {0 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd.bak
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd.bak(40): Library lpm not found.
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd.bak(41): (vcom-1136) Unknown identifier "lpm".
+
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd.bak(43): VHDL Compiler exiting
+
+} {6.0 8.0 9.0 10.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.vhd {0 {vcom -work work -2002 -explicit -stats=none {C:\intelFPGA_lite\16.1\pipemultQP16_1\Schematic\pipemult_restored\pipemult_restored\mult.vhd}
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+** Error: C:\intelFPGA_lite\16.1\pipemultQP16_1\Schematic\pipemult_restored\pipemult_restored\mult.vhd(40): Library lpm not found.
+** Error: C:\intelFPGA_lite\16.1\pipemultQP16_1\Schematic\pipemult_restored\pipemult_restored\mult.vhd(41): (vcom-1136) Unknown identifier "lpm".
+
+** Error: C:\intelFPGA_lite\16.1\pipemultQP16_1\Schematic\pipemult_restored\pipemult_restored\mult.vhd(43): VHDL Compiler exiting
+
+} {6.0 8.0 9.0 10.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.bsf {0 {vlog -work work -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.bsf
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+** Error: (vlog-13069) C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.bsf(22): near "(": syntax error, unexpected '(', expecting class.
+
+
+} {3.0 4.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult2.restore.rpt {0 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult2.restore.rpt
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult2.restore.rpt(1): near "Restore": syntax error
+
+} {4.0 5.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak {0 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipemult
+-- Compiling architecture bdf_type of pipemult
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(68): (vcom-1136) Unknown identifier "clk1".
+
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(75): (vcom-1136) Unknown identifier "clk1".
+
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(83): (vcom-1136) Unknown identifier "clk1".
+
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(83): Expression is not a signal.
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(85): (vcom-1136) Unknown identifier "clk1".
+
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd.bak(91): VHDL Compiler exiting
+
+} {8.0 9.0 10.0 11.0 12.0 13.0 14.0 16.0 17.0 18.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.cmp {0 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.cmp
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+** Error: C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/mult.cmp(17): near "component": syntax error
+
+} {4.0 5.0} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/ram.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/ram.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity ram
+-- Compiling architecture rtl of ram
+
+} {} {}} C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/pipemult_restored/pipemult.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity pipemult
+-- Compiling architecture bdf_type of pipemult
+
+} {} {}}

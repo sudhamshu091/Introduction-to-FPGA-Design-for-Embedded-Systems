@@ -1,0 +1,7 @@
+{
+	"common_dir" : "C:/intelFPGA_lite/16.1/pipemultQP16_1/Schematic/pipemult_restored/",
+	"acds_version" : "Version 16.1.0",
+	"platform" : "windows",
+	"os" : "Windows 10",
+	"qpf" : "pipemult.qpf"
+}
