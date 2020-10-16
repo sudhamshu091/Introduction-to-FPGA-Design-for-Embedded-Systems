@@ -1,0 +1,83 @@
+,pipemult,pipemult2,
+Analysis & Synthesis
+Analysis & Synthesis Status, Successful - Thu Oct 15 23:55:57 2020, Successful - Thu Oct 15 23:54:40 2020,
+Quartus Prime Version, 16.1.0 Build 196 10/24/2016 SJ Lite Edition, 16.1.0 Build 196 10/24/2016 SJ Lite Edition,
+Revision Name, pipemult, pipemult2,
+Top-level Entity Name, pipemult, pipemult,
+Family, MAX 10, MAX 10,
+Total logic elements, 21, 21,
+Total combinational functions, 0, 0,
+Dedicated logic registers, 21, 21,
+Total registers, 21, 21,
+Total pins, 44, 44,
+Total virtual pins, 0, 0,
+Total memory bits, 512, 512,
+Embedded Multiplier 9-bit elements, 1, 1,
+Total PLLs, 0, 0,
+UFM blocks, 0, 0,
+ADC blocks, 0, 0,
+Fitter
+Fitter Status, Successful - Thu Oct 15 23:56:11 2020, Successful - Thu Oct 15 23:55:07 2020,
+Quartus Prime Version, 16.1.0 Build 196 10/24/2016 SJ Lite Edition, 16.1.0 Build 196 10/24/2016 SJ Lite Edition,
+Revision Name, pipemult, pipemult2,
+Top-level Entity Name, pipemult, pipemult,
+Family, MAX 10, MAX 10,
+Device, 10M08DAF484C8GES, 10M08DAF484C8GES,
+Timing Models, Preliminary, Preliminary,
+Total logic elements," 6 / 8,064 ( < 1 % ")," 6 / 8,064 ( < 1 % "),
+Total combinational functions," 1 / 8,064 ( < 1 % ")," 1 / 8,064 ( < 1 % "),
+Dedicated logic registers," 5 / 8,064 ( < 1 % ")," 5 / 8,064 ( < 1 % "),
+Total registers, 21, 21,
+Total pins, 44 / 250 ( 18 % ), 44 / 250 ( 18 % ),
+Total virtual pins, 0, 0,
+Total memory bits," 512 / 387,072 ( < 1 % ")," 512 / 387,072 ( < 1 % "),
+Embedded Multiplier 9-bit elements, 1 / 48 ( 2 % ), 1 / 48 ( 2 % ),
+Total PLLs, 0 / 2 ( 0 % ), 0 / 2 ( 0 % ),
+UFM blocks, 0 / 1 ( 0 % ), 0 / 1 ( 0 % ),
+ADC blocks, 0 / 1 ( 0 % ), 0 / 1 ( 0 % ),
+TimeQuest Timing Analyzer
+ Slow 1200mV 85C Model Setup 'vir_clock'
+Slack, 3.120, 3.121,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 85C Model Setup 'clk1'
+Slack, 3.837, 4.062,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 85C Model Hold 'clk1'
+Slack, 0.483, 0.472,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 85C Model Hold 'vir_clock'
+Slack, 6.358, 6.390,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 85C Model Minimum Pulse Width 'clk1'
+Slack, 4.483, 4.526,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 0C Model Setup 'vir_clock'
+Slack, 3.786, 3.786,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 0C Model Setup 'clk1'
+Slack, 4.219, 4.459,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 0C Model Hold 'clk1'
+Slack, 0.417, 0.422,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 0C Model Hold 'vir_clock'
+Slack, 5.771, 5.804,
+TNS  , 0.000, 0.000,
+ Slow 1200mV 0C Model Minimum Pulse Width 'clk1'
+Slack, 4.505, 4.550,
+TNS  , 0.000, 0.000,
+ Fast 1200mV 0C Model Setup 'clk1'
+Slack, 6.372, 6.504,
+TNS  , 0.000, 0.000,
+ Fast 1200mV 0C Model Setup 'vir_clock'
+Slack, 6.974, 6.974,
+TNS  , 0.000, 0.000,
+ Fast 1200mV 0C Model Hold 'clk1'
+Slack, 0.188, 0.175,
+TNS  , 0.000, 0.000,
+ Fast 1200mV 0C Model Hold 'vir_clock'
+Slack, 2.772, 2.804,
+TNS  , 0.000, 0.000,
+ Fast 1200mV 0C Model Minimum Pulse Width 'clk1'
+Slack, 4.408, 4.408,
+TNS  , 0.000, 0.000,
